@@ -4,21 +4,21 @@
 	background-repeat: no-repeat;
 }
 #page1 small{
-	color:#07b987;
+	color:#0c718a;
 }
-#page3{
-	height:900px
-}
+
 #page3 img{
 	max-height: 262.5px;
+	max-width: 80%;
 }
-#page4{
-	max-height: 50vh;
-	margin-top: 300px;
+#page6 .contact i{
+	font-size: 6rem;
 }
-#page4 h2{
+#page6 .social i{
+	margin-top: 30px;
+	font-size: 4rem;
+	color:#0c718a;
+}
+#page6 .copyright{
 	margin-top: 150px;
-}
-#page6{
-	min-height: 130vh;
 }
