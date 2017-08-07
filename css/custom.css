@@ -1,1 +1,24 @@
-/* your styles go here */
+#page1{
+	background-image: url(../img/mikayla-mallek-219946.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#page1 small{
+	color:#07b987;
+}
+#page3{
+	height:900px
+}
+#page3 img{
+	max-height: 262.5px;
+}
+#page4{
+	max-height: 50vh;
+	margin-top: 300px;
+}
+#page4 h2{
+	margin-top: 150px;
+}
+#page6{
+	min-height: 130vh;
+}
