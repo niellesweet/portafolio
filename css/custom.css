@@ -11,6 +11,9 @@
 	max-height: 262.5px;
 	max-width: 80%;
 }
+#page4 .box img{
+	min-height: 200px;
+}
 #page6 .contact i{
 	font-size: 6rem;
 }
@@ -22,3 +25,4 @@
 #page6 .copyright{
 	margin-top: 150px;
 }
+
