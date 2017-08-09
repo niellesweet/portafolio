@@ -185,8 +185,8 @@ p.social a.email {
 #page1 h3 {
   color: #fff;
 }
-#page1 p {
-  font-size: 20px;
+#page1 p{
+  font-size: 25px;
 }
 #page1 .icon {
   position: absolute;
@@ -199,6 +199,10 @@ p.social a.email {
   border: solid 2px #fff;
   border-radius: 20px;
   z-index: 3;
+}
+#page4 p{
+  margin-top: 30px;
+  font-size: 20px;
 }
 body.disabled-onepage-scroll .onepage-wrapper section {
   min-height: 100%;
